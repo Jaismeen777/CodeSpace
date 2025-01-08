@@ -10,6 +10,8 @@ Using this Editor I have created two projects
    *csscode.css- The CSS code is written in this file
    *jscode.js- The JavaScript file in which you can switch between light and dark mode.
 
+   
+
 ![Screenshot 2025-01-06 210342](https://github.com/user-attachments/assets/18aa41ed-6db4-4eb1-b7ac-e0481926b4fb)
 ![Screenshot 2025-01-06 210420](https://github.com/user-attachments/assets/776e694a-b2c3-4e2f-9f75-7b5e47a28712)
 
