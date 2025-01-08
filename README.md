@@ -24,4 +24,10 @@ Using this Editor I have created two projects
    * togglegame.html- The main HTML file for the game
    * togglegame.css- The CSS file for Styling
    * togglegame.js- The JavaScript file for game logic and interactions
+     ![Screenshot 2025-01-06 215011](https://github.com/user-attachments/assets/8406916a-c74c-493b-a3a1-b2c45e6c5aa5)
+     ![Screenshot 2025-01-06 215028](https://github.com/user-attachments/assets/d67c2c6c-ae07-4283-a8ab-6bfedb9b36d2)
+     ![Screenshot 2025-01-06 215157](https://github.com/user-attachments/assets/904c7058-350c-4f77-8798-8ce0ae89cbe0)
+
+
+
    
