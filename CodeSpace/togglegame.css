@@ -1,0 +1,22 @@
+body{
+    background-color:yellow;
+    display: flex;
+    justify-content: center;
+}
+ul {
+ display: flex;
+ background: #fff;
+ border-radius: 50px;
+ padding: 20px;
+}
+li:hover a{
+    transform:scale(1.2);
+}
+a{
+    width: 60px;
+    height: 60px;
+    display: block;
+    border-radius: 50%;
+    cursor:pointer;
+    margin: 0 15px;
+}

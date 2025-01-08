@@ -1,0 +1,10 @@
+h1 { color: blue;}
+h2 { color: purple;}
+p  { font-size: 20px;}
+body { background-color: lightblue;}
+#light{
+   background-color: lightblue;
+    color: blue;}
+#dark{
+    background-color: rgba(1, 5, 9, 0.91);
+    color: white;}
